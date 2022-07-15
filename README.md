@@ -1,16 +1,5 @@
-# flutter_application_9
+# Money Splitter
 
-A new Flutter project.
+The app is made with flutter to split money among family and friends. When we go for outing, different person pays at different place. Finally, in order to sum up the total expense and divide them evenly, the app says "who needs to pay whom and how much" for even distribution.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can download application by downloading "app-release.apk"
